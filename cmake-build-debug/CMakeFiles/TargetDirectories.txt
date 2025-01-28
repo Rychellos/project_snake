@@ -1,0 +1,3 @@
+D:/Programowanie kopia/projekt_snake/cmake-build-debug/CMakeFiles/projekt_snake.dir
+D:/Programowanie kopia/projekt_snake/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programowanie kopia/projekt_snake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
